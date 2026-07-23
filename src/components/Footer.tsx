@@ -1,4 +1,4 @@
-import { Github, Linkedin, Globe } from "lucide-react";
+import { Linkedin, Globe } from "lucide-react";
 
 const links = [
   {
