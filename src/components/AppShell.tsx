@@ -10,8 +10,8 @@ const nav = [
 ] as const;
 
 const socials = [
-  { label: "Portfolio", href: "https://portfolio-updated-tcsz.vercel.app/", Icon: Globe },
-  { label: "GitHub", href: "https://github.com/MohamedAshraf366?tab=repositories", Icon: Github },
+  //{ label: "Portfolio", href: "https://portfolio-updated-tcsz.vercel.app/", Icon: Globe },
+  //{ label: "GitHub", href: "https://github.com/MohamedAshraf366?tab=repositories", Icon: Github },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/mohamed-ashraf-497a13170", Icon: Linkedin },
 ];
 
